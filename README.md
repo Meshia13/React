@@ -23,11 +23,9 @@ A simple task tracking app built with **React**. Add, complete, and delete tasks
 
 ---
 
-## 📦 Getting Started
+## 📄 License
+This project is open source and free to use.
 
-### 1. Clone the repo
-```bash
-git clone https://github.com/Meshia13/React.git
-cd React
-
+## 🙋‍♀️ Author
+Made with ❤️ by @Meshia13
 
